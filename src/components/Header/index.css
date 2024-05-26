@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.background {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 3px brown 4px;
+  
+}
+
+.list {
+  list-style: none;
+  padding: 2px;
+  margin: 2px;
+  display: flex;
+}
+.background {
+  text-align: center;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+  margin: 5px;
+}
+.wave {
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+}
